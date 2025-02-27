@@ -1,0 +1,1 @@
+This repository contains both backend (main branch) and frontend (frontend branch) code. The main branch holds the backend (server, API, database), while the frontend branch contains the React-based UI.
